@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <script src="src/index.ts"></script>
+    <div class="header">
+      <form id="channelNameForm">
+        <input required id="channelName" placeholder="Channel name">
+        <button type="submit" id="setChannelName">Set</button>
+      </form>
+      <button onClick="document.getElementById('logElement').innerHTML = '';">Clear</button>
+    </div>
+    <pre id="logElement"></pre>
+  </body>
+</html>

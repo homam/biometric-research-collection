@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+#logElement {
+  color: whitesmoke;
+  height: 200vh;
+  width: 100%;
+  outline: solid 1px rgb(185, 34, 34);
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header button,
+.header input {
+  height: 4ex;
+}
+.header form {
+  display: flex;
+}

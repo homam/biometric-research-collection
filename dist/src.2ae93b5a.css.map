@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,qBACF,CACA,YACE,aACF","file":"src.2ae93b5a.css","sourceRoot":"..","sourcesContent":["body {\n  background-color: black;\n}\n#logElement {\n  color: whitesmoke;\n}\n"]}
